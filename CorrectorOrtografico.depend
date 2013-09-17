@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379383002 source:d:\documentos\workspace\cpp\correctorortografico\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<windows.h>
+	"l_distance.h"
+
+1379384015 d:\documentos\workspace\cpp\correctorortografico\l_distance.h
+
